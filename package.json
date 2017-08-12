@@ -1,0 +1,21 @@
+{
+  "name": "sugar-rest-4.1-service",
+  "version": "1.0.0",
+  "description": "Wrapper for integrating with SuiteCRM.",
+  "main": "index.js",
+  "author": "Magnus Pedersen",
+  "license": "GPL-2.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/magp3/sugar-rest-4.1-service",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "guid": "0.0.12",
+    "lodash": "^4.17.2",
+    "md5": "^2.2.1",
+    "mocha": "^3.2.0",
+    "restify-client": "^1.0.5",
+    "restify-clients": "^1.5.0"
+  }
+}
